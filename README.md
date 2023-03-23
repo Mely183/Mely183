@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melissa Villarreal</h1>
-<h3 align="center">"I am particularly interested in the role of Junior Java Analyst, as I believe it is an excellent opportunity to apply my Java skills and knowledge and learn from experienced professionals in the field. I would like to be part of a Java development team and contribute to the creation of innovative solutions that have a positive impact on the world.</h3>
+<h3 align="justify">"I am particularly interested in the role of Junior Java Analyst, as I believe it is an excellent opportunity to apply my Java skills and knowledge and learn from experienced professionals in the field. I would like to be part of a Java development team and contribute to the creation of innovative solutions that have a positive impact on the world.</h3>
 
 - 🔭 I’m currently working on [Restaurante](https://github.com/Mely183/Equipo_2_Frontend)
 
